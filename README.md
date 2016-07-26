@@ -2,6 +2,8 @@
 
 This project contain a patch for CH341 to implement the parity modes
 
+Tested on Ubuntu 14.04.4 with ch340 usb-rs485 dongle
+
 
 ## compile
   make
